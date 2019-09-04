@@ -10,5 +10,5 @@ https://pypi.org/project/scapy/
 first run arp spoof 
 enter target ip
 enter spoof ip
-then start packet sniffer Aand select your interface wlan0 or eth0
+then start packet sniffer and select your interface wlan0 or eth0
 thats sit.. 
